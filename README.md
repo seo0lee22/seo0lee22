@@ -40,8 +40,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seoyoung&bg_color=60,a3d7ff,012d74&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung&layout=compact&bg_color=60,a3d7ff,012d74&title_color=ffffff&text_color=ffffff"
            /> </div> 
-    </div>
-    <div>
+        <div>
         <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dltjdud-0225&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dltjdud-0225"
@@ -50,4 +49,4 @@
 />
 </a>
     </div>
-    
+    </div>
