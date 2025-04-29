@@ -26,22 +26,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/xeesyxxe/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xeesyxxe/"> </a>
-         <a href=https://www.notion.so/1bab629f515480dcb0e4d0a6f55b3708?v=1bab629f515480f78dc4000c14183acd> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/1bab629f515480dcb0e4d0a6f55b3708?v=1bab629f515480f78dc4000c14183acd"> </a>
-         <a href=https://dltjdud.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dltjdud.tistory.com/"> </a>
-         <a href=https://blog.naver.com/dltjdud0702> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dltjdud0702"> </a>
-         <a href=mailto:seo0lee22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seo0lee22@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seoyoung&bg_color=60,a3d7ff,012d74&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung&layout=compact&bg_color=60,a3d7ff,012d74&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-        <div>
-        <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dltjdud-0225&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dltjdud-0225"
   width="600"
