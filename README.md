@@ -35,7 +35,7 @@
          <a href=https://blog.naver.com/dltjdud0702> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dltjdud0702"> </a>
          <a href=mailto:seo0lee22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seo0lee22@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center">  
     </div>
 <img
   src="https://render.gitanimals.org/farms/dltjdud-0225"
@@ -44,4 +44,5 @@
 />
 </a>
     </div>
+    </div> 
     </div>
