@@ -37,12 +37,12 @@
           </div>  <br> 
     <div align= "center">  
     </div>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seo0lee22&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seo0lee22"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seo0lee22&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seo0lee22"
+  width="600"
+  height="300"
+/>
 </a>
     </div>
     </div> 
