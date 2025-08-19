@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
     <br />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -36,7 +37,6 @@
          <a href=https://www.notion.so/1bab629f515480118ec5da655cf99d27> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/1bab629f515480dcb0e4d0a6f55b3708?v=1bab629f515480f78dc4000c14183acd"> </a>
          <a href=https://dltjdud.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dltjdud.tistory.com/"> </a>
          <a href=https://blog.naver.com/dltjdud0702> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dltjdud0702"> </a>
-         <a href=mailto:seo0lee22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seo0lee22@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  
     </div>
